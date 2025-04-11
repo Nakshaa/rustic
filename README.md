@@ -10,5 +10,5 @@ Use of this page is
 
 ## Contributors
 This is **bold**.
-This is i_talics_
+This is i_talics_.
 [naksaa.wordpress.com](https://naksaa.wordpress.com)
